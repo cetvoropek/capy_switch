@@ -1,0 +1,13 @@
+
+
+/paste this in ox_inventory/data/item.lua under anyitem becarefullt with ,
+
+
+['fullautoswitch'] = {
+		label = 'Switch',
+		weight = 1,
+		stack = true,
+		close = true,
+		allowArmed = true,
+		description = 'Seems like you want to swhich.'
+},
